@@ -6,7 +6,7 @@ A test run on the dataset. Tasks- Image Augmentation, Feature Map, High Evaluati
 
 - CNN
 
-![model](project_images/model.PNG)
+![model](project_images/model.png)
 
 ## Dataset
 
@@ -24,9 +24,9 @@ A test run on the dataset. Tasks- Image Augmentation, Feature Map, High Evaluati
 
 ## Train vs Validation - Accuracy & Loss Graph:
 
-![model](project_images/accuracy.PNG)
+![model](project_images/accuracy.png)
 
-![model](project_images/loss.PNG)
+![model](project_images/loss.png)
 
 ## Feature Map:
 
