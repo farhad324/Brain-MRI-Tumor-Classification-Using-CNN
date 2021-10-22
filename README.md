@@ -45,3 +45,4 @@ A test run on the dataset. Tasks- Image Augmentation, Feature Map, High Evaluati
 
 ## Feature Map:
 
+![Feature Map](project_images/feature_map.png)
