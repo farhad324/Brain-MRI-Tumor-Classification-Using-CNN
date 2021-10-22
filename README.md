@@ -41,9 +41,7 @@ A test run on the dataset. Tasks- Image Augmentation, Feature Map, High Evaluati
 
 ## Train vs Validation - Accuracy & Loss Graph:
 
-![model](project_images/accuracy.png)
-
-![model](project_images/loss.png)
+![Accuracy](project_images/accuracy.png "Accuracy") ![Loss](project_images/loss.png "Loss")
 
 ## Feature Map:
 
